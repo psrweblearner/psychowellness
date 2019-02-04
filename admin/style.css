@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header{
+	
+	border: 1px solid black;
+	background:url(images/3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:top;
+	color: #E1971E;
+}
+#left_side{
+	border-right: 5px ridge orange;
+	background:#3C0;
+}
+#right_side{
+	background: white;
+}
+#right_side table th{
+
+	text-align: center;
+}

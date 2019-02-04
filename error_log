@@ -1,0 +1,23 @@
+
+[11-Aug-2018 01:44:03 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/radesh/public_html/psychowellnesscenter.com/addiction.php on line 43
+[15-Aug-2018 14:47:30 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1203): User radesh_suri already has more than 'max_user_connections' active connections in /home/radesh/public_html/psychowellnesscenter.com/db/db.php on line 2
+[15-Aug-2018 14:47:30 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/radesh/public_html/psychowellnesscenter.com/includes/footer.php on line 59
+[15-Aug-2018 14:47:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/radesh/public_html/psychowellnesscenter.com/includes/footer.php on line 60
+[15-Aug-2018 14:47:30 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1203): User radesh_suri already has more than 'max_user_connections' active connections in /home/radesh/public_html/psychowellnesscenter.com/db/db.php on line 2
+[15-Aug-2018 14:47:30 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/radesh/public_html/psychowellnesscenter.com/includes/single_top_feature.php on line 12
+[15-Aug-2018 14:47:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/radesh/public_html/psychowellnesscenter.com/includes/single_top_feature.php on line 14
+[15-Aug-2018 14:47:30 America/Chicago] PHP Notice:  Undefined variable: tips_title in /home/radesh/public_html/psychowellnesscenter.com/includes/single_top_feature.php on line 26
+[15-Aug-2018 14:47:30 America/Chicago] PHP Notice:  Undefined variable: tips_text in /home/radesh/public_html/psychowellnesscenter.com/includes/single_top_feature.php on line 27
+[15-Aug-2018 14:47:30 America/Chicago] PHP Notice:  Undefined variable: tips_id in /home/radesh/public_html/psychowellnesscenter.com/includes/single_top_feature.php on line 29
+[15-Aug-2018 14:47:30 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/radesh/public_html/psychowellnesscenter.com/includes/single_top_feature.php on line 40
+[15-Aug-2018 14:47:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/radesh/public_html/psychowellnesscenter.com/includes/single_top_feature.php on line 42
+[15-Aug-2018 14:47:30 America/Chicago] PHP Notice:  Undefined variable: op_text in /home/radesh/public_html/psychowellnesscenter.com/includes/single_top_feature.php on line 61
+[15-Aug-2018 14:47:30 America/Chicago] PHP Notice:  Undefined variable: op_m_f in /home/radesh/public_html/psychowellnesscenter.com/includes/single_top_feature.php on line 65
+[15-Aug-2018 14:47:30 America/Chicago] PHP Notice:  Undefined variable: op_s in /home/radesh/public_html/psychowellnesscenter.com/includes/single_top_feature.php on line 69
+[15-Aug-2018 14:47:30 America/Chicago] PHP Notice:  Undefined variable: op_sun in /home/radesh/public_html/psychowellnesscenter.com/includes/single_top_feature.php on line 73
+[15-Aug-2018 14:47:30 America/Chicago] PHP Notice:  Undefined variable: op_c in /home/radesh/public_html/psychowellnesscenter.com/includes/single_top_feature.php on line 77
+[15-Aug-2018 14:47:30 America/Chicago] PHP Warning:  mysqli_connect(): (42000/1203): User radesh_suri already has more than 'max_user_connections' active connections in /home/radesh/public_html/psychowellnesscenter.com/db/db.php on line 2
+[15-Aug-2018 14:47:30 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/radesh/public_html/psychowellnesscenter.com/tips_page.php on line 42
+[15-Aug-2018 14:47:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/radesh/public_html/psychowellnesscenter.com/tips_page.php on line 44
+[20-Aug-2018 02:18:44 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/radesh/public_html/psychowellnesscenter.com/addiction.php on line 43
+[04-Sep-2018 07:15:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/radesh/public_html/psychowellnesscenter.com/team_page.php on line 39
